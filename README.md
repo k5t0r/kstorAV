@@ -1,1 +1,1 @@
-# kstorAV
+Future small AV for Windows.
